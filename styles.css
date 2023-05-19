@@ -91,7 +91,7 @@ li {
 .fa-square-github,
 .fa-linkedin,
 .fa-instagram {
-  font-size: 42px;
+  font-size: 47px;
   color: rgb(224, 224, 224);
   margin: 50px 25px;
 }
@@ -99,7 +99,6 @@ li {
 .fa-square-github:hover,
 .fa-linkedin:hover,
 .fa-instagram:hover {
-  font-size: 42px;
   color: #41caca;
   margin: 50px 25px;
 }
@@ -114,7 +113,7 @@ li {
 
   font-family: "Roboto";
   font-size: 1.2rem;
-  margin: 20px auto 70px;
+  margin: 40px auto 70px;
   width: 60%;
   height: 450px;
   padding: 0 20px 50px;
